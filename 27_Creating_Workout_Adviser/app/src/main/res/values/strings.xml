@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Application27</string>
+    <string name="new_button">New Button</string>
+    <string name="your">Your Workouts Here</string>
+
+    <string-array name="workout_types">
+        <item>Chest</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+    </string-array>
+</resources>
