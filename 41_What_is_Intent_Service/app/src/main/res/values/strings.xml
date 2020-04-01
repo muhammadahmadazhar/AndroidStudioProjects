@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application36</string>
+    <string name="first_button">First Button</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="second_button">Second Button</string>
+    <string name="check_service">Check Service</string>
+</resources>
